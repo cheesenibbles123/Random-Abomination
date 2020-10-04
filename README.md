@@ -1,2 +1,2 @@
 # Random-Abomination
-I cant be arsed to write this out readme again.
+I cant be bothered to write this out readme again.
